@@ -1,0 +1,18 @@
+[
+    {
+        "flight_id": "BA2490",
+        "origin": "LHR",
+        "destination": "JFK",
+        "departure_datetime": "2025-11-14 10:30",
+        "arrival_datetime": "2025-11-14 13:05",
+        "price": 489.99
+    },
+    {
+        "flight_id": "LH172",
+        "origin": "FRA",
+        "destination": "OSL",
+        "departure_datetime": "2025-11-12 07:15",
+        "arrival_datetime": "2025-11-12 08:30",
+        "price": 159.5
+    }
+]
